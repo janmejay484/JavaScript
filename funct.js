@@ -89,3 +89,11 @@ console.log(triple()); // should return 15
 
 // iife ka use karke hum private variables create kar sakte hain, jo ki function ke bahar access nahi kiye ja sakte
 // iife ka use karke hum kisi function ko turant invoke kar sakte hain, bina kisi naam ke
+
+
+// notes
+
+// higher order function vs closure
+
+// hof -> ek function hai jo dusre function ko return krta hai ya dusre function ko argument ke roop me leta hai
+// closure -> ek function hai jo dusre function ke andar hota hai aur outer function ke variables ko access kar sakta hai
